@@ -1,0 +1,46 @@
+
+.Box1 {
+    width: 100px;
+    height: 100px;
+    border: 5px solid white;
+    margin: auto;
+    background: rgb(255, 0, 0);
+    color: white;
+}
+.Box1 .mini1{
+    width: 100px;
+    height: 50%;
+    background: rgb(233, 80, 80);
+margin-top:50%;
+border: auto;
+}
+.Box2{
+    width: 100px;
+    height: 100px;
+    border: 5px solid white;
+    margin: auto;
+    background: yellow;
+}
+.Box2 .mini2{
+    width: 50%;
+    height: 50%;
+    background: rgb(209, 209, 118);
+    margin-top: 50%;
+    margin-left: 50%;
+}
+.Box3{
+    width: 100px;
+    height: 100px;
+    border: 5px solid white;
+    margin: auto;
+    background: green;
+}
+.Box3 .mini3{
+        width: 50%;
+        height: 50%;
+        background: rgb(124, 241, 113);
+        margin-top: 50%;
+    }
+body{
+    background: gray;
+}
